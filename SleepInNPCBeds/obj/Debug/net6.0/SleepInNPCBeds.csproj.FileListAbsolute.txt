@@ -1,0 +1,8 @@
+D:\hp\Documents\SleepInNPCBeds\bin\Debug\net6.0\SleepInNPCBeds.deps.json
+D:\hp\Documents\SleepInNPCBeds\bin\Debug\net6.0\SleepInNPCBeds.dll
+D:\hp\Documents\SleepInNPCBeds\obj\Debug\net6.0\SleepInNPCBeds.csproj.AssemblyReference.cache
+D:\hp\Documents\SleepInNPCBeds\obj\Debug\net6.0\SleepInNPCBeds.GeneratedMSBuildEditorConfig.editorconfig
+D:\hp\Documents\SleepInNPCBeds\obj\Debug\net6.0\SleepInNPCBeds.AssemblyInfoInputs.cache
+D:\hp\Documents\SleepInNPCBeds\obj\Debug\net6.0\SleepInNPCBeds.AssemblyInfo.cs
+D:\hp\Documents\SleepInNPCBeds\obj\Debug\net6.0\SleepInNPCBeds.csproj.CoreCompileInputs.cache
+D:\hp\Documents\SleepInNPCBeds\obj\Debug\net6.0\SleepInNPCBeds.dll

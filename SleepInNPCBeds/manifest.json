@@ -1,0 +1,10 @@
+{
+  "Name": "Sleep in NPC Beds",
+  "Author": "Codex",
+  "Version": "1.0.0",
+  "Description": "睡在 NPC 的床上：走到任何 NPC 的床边即可睡觉，与睡自家床一样结束当天并自动存档，第二天早上在 NPC 床上醒来。",
+  "UniqueID": "Codex.SleepInNPCBeds",
+  "EntryDll": "SleepInNPCBeds.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
